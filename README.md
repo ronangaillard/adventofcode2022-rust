@@ -1,12 +1,16 @@
 <img src="./.assets/christmas_ferris.png" width="164">
 
-# 🎄 Advent of Code {year}
+# 🎄 Advent of Code 2022
 
 Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.rust-lang.org/).
 
 <!--- advent_readme_stars table --->
 
 ---
+
+## Disclaimer
+
+This is my first time playing with rust, you can find my TS solution here : [my 2022 TS Solution](https://github.com/ronangaillard/adventofcode2022)
 
 ## Template setup
 
